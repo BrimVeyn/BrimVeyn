@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently at 42 school. I just finished the common core after 8 months in.<br>I'm currently working on a project called 42sh which goal is to reproduce a shell with bash as a reference.<br>I'm passionate about low level programming. Working with C/C++/Zig
+I'm 24, currently at '42 Paris' school. Low-level programmer working with Zig/C/C++.
 
 
 ## 🌐 Socials:
